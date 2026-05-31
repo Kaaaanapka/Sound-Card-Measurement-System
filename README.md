@@ -4,6 +4,11 @@ Engineering thesis project focused on the development of a desktop application t
 
 The project includes signal generation, spectrum analysis (FFT), impedance measurement, and audio signal processing experiments.
 
+## Structure
+- src/ – main implementation
+- experiments/ – experimental scripts
+- legacy/ – outdated or non-working code
+
 # Status
 
 **Completed** (Engineering Thesis Project)
