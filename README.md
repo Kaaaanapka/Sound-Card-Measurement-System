@@ -11,8 +11,8 @@ The project includes signal generation, spectrum analysis (FFT), impedance measu
 
 # Status
 
-**Completed** (Engineering Thesis Project)
+- **Completed** (Engineering Thesis Project)
 
 # Notes
 
-This repository is preserved for archival and educational purposes and is no longer actively maintained.
+- This repository is preserved for archival and educational purposes and is no longer actively maintained.
