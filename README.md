@@ -6,7 +6,7 @@ The project includes signal generation, spectrum analysis (FFT), impedance measu
 
 # Status
 
-Completed (Engineering Thesis Project)
+**Completed** (Engineering Thesis Project)
 
 # Notes
 
